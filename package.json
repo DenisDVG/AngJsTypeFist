@@ -1,0 +1,28 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testComand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisDVG/AngJsTypeFist.git"
+  },
+  "keywords": [
+    "DenisDVG"
+  ],
+  "author": "\u0016DenisDVG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenisDVG/AngJsTypeFist/issues"
+  },
+  "homepage": "https://github.com/DenisDVG/AngJsTypeFist#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@types/angular": "^1.6.57"
+  }
+}
